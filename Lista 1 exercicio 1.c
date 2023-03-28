@@ -2,6 +2,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
+
 void PreencherVetor(int Vetor[], int r){
   printf("insira um elemento \n");
   int auxiliar=0;
